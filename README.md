@@ -1,6 +1,13 @@
 # MLSAKIET_DA_INTERNSHIP
 Welcome to the Git repository for the Data Analysis Tools and Techniques internship. This program is designed to equip students with proficiency in essential data analysis tools and techniques, crucial for achieving competitive excellence in the tech industry.
 
+![95296](https://github.com/MLSAKIET0821/MLSAKIET_DA_INTERNSHIP/assets/142135624/4f843df5-ed41-4c62-91b8-dcbb731f3079)
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
+![Maintenance](https://img.shields.io/badge/maintenance-active-green)
+
+
 ## Table of Contents
 - [Introduction to Git](#introduction-to-git)
 - [Objectives](#objectives)
@@ -12,20 +19,15 @@ Welcome to the Git repository for the Data Analysis Tools and Techniques interns
 - [Pull Request Requirements](#pull-request-requirements)
 - [Contact Information](#contact-information)
 
-## Introduction to Git
-Git is a distributed version control system that helps developers collaborate on projects efficiently. It tracks changes in source code during software development, enabling multiple developers to work on a project simultaneously. GitHub is a cloud-based hosting service for Git repositories, providing tools for collaborative development, version control, and project management.
 
-## Objectives
+## Introduction to Git 🐙
+
+Git is a distributed version control system that helps developers collaborate on projects efficiently. It tracks changes in source code during software development, enabling multiple developers to work on a project simultaneously. GitHub 🐙 is a cloud-based hosting service for Git repositories, providing tools for collaborative development, version control, and project management.
+
+
+## Objectives 🎯
 - **Practical Skills:** Equip students with hands-on experience in using advanced data analysis tools and software.
 - **Problem-Solving:** Enhance students' problem-solving abilities and technical expertise in data analysis.
-- **Competitive Readiness:** Prepare students for competitive scenarios in the tech industry.
-- **Technological Understanding:** Foster a deep understanding of the latest data analysis technologies and their applications.
-- **Git/GitHub Proficiency:** Teach students how to control their repository and work in collaborations using Git/GitHub.
-- **Version Control Management:** Enable students to make pull requests and manage version control effectively.
-- **Project Development Workflow:** Ensure students learn the complete workflow of data analysis project development and management.
-- **Hands-On Experience:** Provide hands-on experience through multiple projects.
-- **Process Understanding:** Offer a complete understanding of the data analysis tools and software process and its practical applications.
-
 ## Rules and Regulations
 - **Eligibility:** Open to all first-year and second-year students of KIET Group of Institutions.
 - **Attendance:** Students must attend all scheduled sessions and complete all assigned tasks.
@@ -35,16 +37,14 @@ Git is a distributed version control system that helps developers collaborate on
 
 ## Phases of the Internship
 
-### 40-Hour Learning Modules and Microsoft Badges with Quizzes
-- Students will complete 40 hours of pre-defined modules from the Microsoft Learn platform.
-- Upon completion, students will earn Microsoft Badges, showcasing their achievements.
+| Phase                                      | Details |
+|--------------------------------------------|---------|
+| 40-Hour Learning Modules and Microsoft Badges with Quizzes | Students will complete 40 hours of pre-defined modules from the Microsoft Learn platform and earn badges. |
+| 60 Hours of Project Work & Creating Git PR (Pull Request & Repository Work) | Projects are assigned in different domains and levels of difficulty, with the requirement to submit a pull request. 
 
-### 60 Hours of Project Work & Creating Git PR (Pull Request & Repository Work)
-- Students will be assigned projects in their respective domains.
-- Projects are categorized into three levels: Easy, Intermediate, and Difficult.
-- Students can choose to complete either an Easy and an Intermediate project or one Difficult project.
-- This period will also include resolving any doubts and providing support.
-- Students will compile and submit their projects for evaluation.
+## Prerequisites
+- Git
+- GitHub account
 
 ## How to Make a Pull Request (PR)
 Follow these steps to make a pull request to this repository:
