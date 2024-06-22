@@ -81,9 +81,8 @@ Your pull request should include:
 ## Contact Information
 For any queries, feel free to contact:
 
-- **Ananya Srivastava - Chapter Admin**
-  - Phone: +91 83030 47722
-- **Yash Kumar Goel - Chapter President**
-  - Phone: +91 7505853812
-
+- **Kanisk Jaiswal - Sponsar Head**
+  - Phone: +91 9795159452
+- **Piyush Sharma - Graphics Lead**
+  - Phone: +91 9811779328
 We hope you have a great learning experience and achieve significant milestones during this internship. Happy coding!
